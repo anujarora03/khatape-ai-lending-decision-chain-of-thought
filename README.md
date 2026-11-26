@@ -2,7 +2,7 @@
 
 **A FinTech case study on when AI can give a quick answer and when it must show its working.**
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
+Author:anuj arora · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
 
 ## The case
 
